@@ -7,3 +7,4 @@ Olá pessoal estou aqui de novo para mostrar um exemplo de criação de ETL com 
 </div> 
 
 <b>Sobre o script:</b> O arquivo não possui cabeçalho e possui delimitador ; e "
+O arquivo .csv utilizado esta salvo em: 
