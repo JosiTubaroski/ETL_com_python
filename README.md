@@ -10,8 +10,6 @@ Olá pessoal estou aqui de novo para mostrar exemplos de criação de fluxo ETL 
 O arquivo .csv utilizado esta salvo em: https://github.com/JosiTubaroski/ETL_com_python
 
 <div> 
-<p></p>  
-<p></p> 
 <p></p>   
 <p><a href="https://github.com/JosiTubaroski/ETL_com_python/blob/main/ETL_Clientes.py">2 - Leitura dinamica de caminho e nome de arquivo, após verificar caminho, leitura .csv destino sql server.</a></p>
 </div> 
