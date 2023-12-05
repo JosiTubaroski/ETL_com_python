@@ -8,3 +8,7 @@ Olá pessoal estou aqui de novo para mostrar um exemplo de criação de ETL com 
 
 <p><b>Sobre o script:</b> O arquivo não possui cabeçalho e possui delimitador ; e " </p>
 O arquivo .csv utilizado esta salvo em: https://github.com/JosiTubaroski/ETL_com_python
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/ETL_com_python/blob/main/ETL_Clientes.py">2 - Leitura dinamica de caminho e nome de arquivo, após verificar caminho, leitura .csv destino sql server.</a></p>
+</div> 
