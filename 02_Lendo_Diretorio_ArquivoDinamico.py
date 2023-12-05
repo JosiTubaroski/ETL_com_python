@@ -14,10 +14,10 @@ warnings.filterwarnings("ignore")
 
 # Configuração da conexão com o SQL Server
 
-server = 'VILA-SRV2.fatoti.com.br\SQL2014'
-user = 'sa'
-password = '08NTVoCWUzT4Cbq5VYEp'
-database = 'SircoiMSBank'
+server = 'server'
+user = 'user'
+password = 'password'
+database = 'database'
 
 # Estabelecendo a conexão
 conn = sql.connect(server, user, password, database)
