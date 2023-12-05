@@ -13,3 +13,8 @@ O arquivo .csv utilizado esta salvo em: https://github.com/JosiTubaroski/ETL_com
 <p></p>   
 <p><a href="https://github.com/JosiTubaroski/ETL_com_python/blob/main/02_Lendo_Diretorio_ArquivoDinamico.py">2 - Leitura dinamica de caminho e nome de arquivo, após verificar caminho, leitura .csv destino sql server.</a></p>
 </div> 
+
+<div> 
+<p></p>   
+<p><a href="https://github.com/JosiTubaroski/ETL_com_python/blob/main/02_Lendo_Diretorio_ArquivoDinamico.py">3 - Script para excluir registros de tabela sql server.</a></p>
+</div> 
