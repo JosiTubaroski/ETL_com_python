@@ -7,4 +7,4 @@ Olá pessoal estou aqui de novo para mostrar um exemplo de criação de ETL com 
 </div> 
 
 <p><b>Sobre o script:</b> O arquivo não possui cabeçalho e possui delimitador ; e " </p>
-O arquivo .csv utilizado esta salvo em: 
+O arquivo .csv utilizado esta salvo em: https://github.com/JosiTubaroski/ETL_com_python
