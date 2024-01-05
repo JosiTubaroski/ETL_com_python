@@ -18,3 +18,8 @@ O arquivo .csv utilizado esta salvo em: https://github.com/JosiTubaroski/ETL_com
 <p></p>   
 <p><a href="https://github.com/JosiTubaroski/ETL_com_python/blob/main/03_Delete_Python_SQL.py">3 - Script para excluir registros de tabela sql server.</a></p>
 </div> 
+
+<div> 
+<p></p>   
+<p><a href="https://github.com/JosiTubaroski/ETL_com_python/blob/main/03_Delete_Python_SQL.py">4 - Executar Procedures com Python.</a></p>
+</div> 
