@@ -21,5 +21,5 @@ O arquivo .csv utilizado esta salvo em: https://github.com/JosiTubaroski/ETL_com
 
 <div> 
 <p></p>   
-<p><a href="https://github.com/JosiTubaroski/ETL_com_python/blob/main/03_Delete_Python_SQL.py">4 - Executar Procedures com Python.</a></p>
+<p><a href="https://github.com/JosiTubaroski/ETL_com_python/blob/main/08_Exec_Procedure_Dinamico.py">4 - Executar Procedures com Python.</a></p>
 </div> 
